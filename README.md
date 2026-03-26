@@ -1,1 +1,2 @@
-Mobile App Dev - Android & iOS - http://yofardev.fr
+Mobile App Dev - Flutter / Android & iOS 
+http://yofardev.fr
